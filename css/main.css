@@ -1,0 +1,17 @@
+html {
+
+}
+
+header {
+  background-color: #ddd;
+}
+
+.search {
+  width: 8%;
+}
+
+.logo {
+  width: 60%;
+  padding-bottom: 1em;
+  padding-top: .5em;
+}
